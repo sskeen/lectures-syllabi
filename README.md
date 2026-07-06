@@ -8,7 +8,7 @@ My contact details are available at [simoneskeen.xyz](https://simoneskeen.xyz/).
 
 ## Invited guest lectures
 
-[AI and mental health: an introduction]([xx](https://github.com/sskeen/lectures-syllabi/blob/main/lectures/ai_and_mental_health_an_introduction.pdf))<br>
+[AI and mental health: an introduction](https://github.com/sskeen/lectures-syllabi/blob/main/lectures/ai_and_mental_health_an_introduction.pdf)<br>
 [Qualitative inquiry in public health: principles and pragmatics](xx)<br>
 [(Re)politicizing suicide risk and prevention: cross-sectoral, anti-carceral perspectives](xx)<br>
 [Biopsychosociotechnical: information-age TGD identity formation, collective bodily autonomy, and the politics of backlash](xx)<br> 
