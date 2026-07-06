@@ -1,1 +1,1 @@
-# lectures-syllabi
+# 📘 Lectures and syllabi
