@@ -1,6 +1,6 @@
 # 📘 Lectures and syllabi
 
-This repo archives past (complete) lectures and syllabi. Links below open `└──lectures/` and `└──syllabi/` files via [`nbviewer`](https://nbviewer.org/) for a cleaner interface. 
+This repo archives past (complete) lectures and syllabi. Links below open `└──lectures/` and `└──syllabi/` files via [nbviewer](https://nbviewer.org/) for a cleaner interface. 
 
 **Speaker's notes are available** upon reasonable request. 
 
